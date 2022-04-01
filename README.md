@@ -1,4 +1,4 @@
-![headshot](tiddy.jpg)
+![headshot](tiddy.jpg) 
 # A title insight into Asmat Khattak 
 Hi Everyone! My name is Asmat Khattak and I am a researcher currently working on data science projects. I am learning github for my projects to collaborate with people who have similar goals like me. 
 
