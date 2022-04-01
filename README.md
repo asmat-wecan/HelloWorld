@@ -1,3 +1,4 @@
+![headshot](asmat_pic.jpg)
 # A title insight into Asmat Khattak 
 Hi Everyone! My name is Asmat Khattak and I am a researcher currently working on data science projects. I am learning github for my projects to collaborate with people who have similar goals like me. 
 
@@ -7,4 +8,4 @@ I really love working in tech. Specifically, I love being in passion where I can
 
 ## My Hobbies 
 One of my favourite things to do is to watch TV series and practice language. 
-![headshot](asmat_pic.jpg)
+
